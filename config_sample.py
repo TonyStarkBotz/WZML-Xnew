@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "8140926298:AAGz3YEFDYFtl9DHtsZMAOTyH7qXbNguRW8"
+OWNER_ID = "5019668523"
+TELEGRAM_API = "20519744"
+TELEGRAM_HASH = "7c50a4e525de5fcd9756fba209d0c4e4"
+DATABASE_URL = "mongodb+srv://tabolo8539:0evqZDV4fC5fD17c@cluster0.cw8zxus.mongodb.net/?retryWrites=true&w=majority"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
@@ -12,7 +12,7 @@ TG_PROXY = (
 )  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
+AUTHORIZED_CHATS = "-1004567350108"
 SUDO_USERS = ""
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
@@ -31,8 +31,8 @@ UPLOAD_PATHS = {}
 HELPER_TOKENS = ""
 
 # MegaAPI v4.30
-MEGA_EMAIL = ""
-MEGA_PASSWORD = ""
+MEGA_EMAIL = "as0366987@gmail.com"
+MEGA_PASSWORD = "Sainisahab2"
 
 # Disable Options
 DISABLE_TORRENTS = False
@@ -43,8 +43,8 @@ DISABLE_SEED = False
 DISABLE_FF_MODE = False
 
 # Telegraph
-AUTHOR_NAME = "WZML-X"
-AUTHOR_URL = "https://t.me/WZML_X"
+AUTHOR_NAME = "Jarvis"
+AUTHOR_URL = "https://t.me/DigitalGalaxyHQ"
 
 # Task Limits
 DIRECT_LIMIT = 0
@@ -70,21 +70,18 @@ HYDRA_IP = ""
 HYDRA_API_KEY = ""
 
 # Media Search
-IMDB_TEMPLATE = """<b>Title: </b> {title} [{year}]
-<b>Also Known As:</b> {aka}
-<b>Rating ⭐️:</b> <i>{rating}</i>
-<b>Release Info: </b> <a href="{url_releaseinfo}">{release_date}</a>
-<b>Genre: </b>{genres}
-<b>IMDb URL:</b> {url}
-<b>Language: </b>{languages}
-<b>Country of Origin : </b> {countries}
+IMDB_TEMPLATE = """<b>🎬 Title:</b>{title} [{year}]
+<b>⭐ Rating:</b> <i>{rating}</i>
+<b>📅 Release Date:</b> <a href="{url_releaseinfo}">{release_date}</a>
+<b>📚 Genre:</b> {genres}
+<b>🗣️ Language:</b> {languages}
+<b>🌍 Country:</b> {countries}
+<b>📖 Storyline:</b>{plot}
 
-<b>Story Line: </b><code>{plot}</code>
-
-<a href="{url_cast}">Read More ...</a>"""
+Powered By:- @MovieTimesTV"""
 
 # Task Tools
-FORCE_SUB_IDS = ""
+FORCE_SUB_IDS = "-1001946735467"
 MEDIA_STORE = True
 DELETE_LINKS = False
 CLEAN_LOG_MSG = False
@@ -97,13 +94,13 @@ VERIFY_TIMEOUT = 0
 LOGIN_PASS = ""
 
 # Bot Settings
-BOT_PM = False
+BOT_PM = True
 SET_COMMANDS = True
 TIMEZONE = "Asia/Kolkata"
 
 # GDrive Tools
-GDRIVE_ID = ""
-GD_DESP = "Uploaded with WZ Bot"
+GDRIVE_ID = "1dWeUHzWK5KTaaTTiqvemfrWzxU9YkdEd"
+GD_DESP = "Uploaded with Jarvis"
 IS_TEAM_DRIVE = False
 STOP_DUPLICATE = False
 INDEX_URL = ""
@@ -168,9 +165,9 @@ LEECH_CAPTION = ""
 THUMBNAIL_LAYOUT = ""
 
 # Log Channels
-LEECH_DUMP_CHAT = ""
-LINKS_LOG_ID = ""
-MIRROR_LOG_ID = ""
+LEECH_DUMP_CHAT = "-1002362950523"
+LINKS_LOG_ID = "-1002362950523"
+MIRROR_LOG_ID = "-1002362950523"
 
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
